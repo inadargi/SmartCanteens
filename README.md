@@ -1,52 +1,51 @@
+# 🏪 Smart Canteen Project
 
-# Smart Canteen Project
-
-## Overview
+## 📝 Overview
 
 Smart Canteen is a comprehensive web application designed to automate and improve the canteen experience in educational institutions. It provides a role-based platform for customers, canteen staff, and administrators to manage food orders, inventory, and analytics efficiently. The system supports real-time order updates, secure user authentication, and interactive features like student discounts and a chatbot assistant.
 
-## Features
+## ✨ Features
 
-### Customer
+### 👤 Customer
 
-* Browse and search the menu
-* Place and track orders with real-time updates
-* Use wallet and apply student discounts
-* Access chatbot assistance
-* View order history and receipts
+* Browse and search the menu  
+* Place and track orders with real-time updates  
+* Use wallet and apply student discounts  
+* Access chatbot assistance  
+* View order history and receipts  
 
-### Canteen Staff
+### 🍳 Canteen Staff
 
-* Receive and manage orders instantly
-* Update order status (e.g., preparing, ready)
-* Monitor and manage inventory stock
-* View sales and inventory analytics
+* Receive and manage orders instantly  
+* Update order status (e.g., preparing, ready)  
+* Monitor and manage inventory stock  
+* View sales and inventory analytics  
 
-### Admin
+### 🛠️ Admin
 
-* Manage users and roles
-* Add, edit, or remove menu items and prices
-* Oversee inventory and stock alerts
-* Analyze sales and customer feedback
-* Configure discounts and promotional offers
+* Manage users and roles  
+* Add, edit, or remove menu items and prices  
+* Oversee inventory and stock alerts  
+* Analyze sales and customer feedback  
+* Configure discounts and promotional offers  
 
-## Technology Stack
+## 🛠️ Technology Stack
 
-### Frontend
+### 🌐 Frontend
 
-* React.js with TypeScript
-* Tailwind CSS for styling
-* React Hook Form and Zod for form management and validation
-* Recharts for displaying analytics and charts
+* React.js with TypeScript  
+* Tailwind CSS for styling  
+* React Hook Form and Zod for form management and validation  
+* Recharts for displaying analytics and charts  
 
-### Backend
+### ⚙️ Backend
 
-* Node.js and Express.js
-* PostgreSQL or MongoDB database options
-* JWT-based authentication for security
-* Socket.IO for real-time communication
+* Node.js and Express.js  
+* PostgreSQL or MongoDB database options  
+* JWT-based authentication for security  
+* Socket.IO for real-time communication  
 
-## Project Structure
+## 📂 Project Structure
 
 ```
 smart-canteen/
@@ -135,8 +134,7 @@ smart-canteen/
 &nbsp;
 ![Home Page](./Images/14.png)
 &nbsp;
-![Home Page](./Images/15.png)
-&nbsp;
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request for review.
