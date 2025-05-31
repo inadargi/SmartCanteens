@@ -105,7 +105,20 @@ smart-canteen/
 * Integration with payment gateways
 * AI-powered feedback analysis and personalized recommendations
 * Enhanced chatbot with natural language processing
-
+  
+## Screenshots
+![Home Page](./Images/1.png)
+&nbsp;
+![Home Page](./Images/2.png)
+&nbsp;
+![Home Page](./Images/3.png)
+&nbsp;
+![Home Page](./Images/4.png)
+&nbsp;
+![Home Page](./Images/5.png)
+&nbsp;
+![Home Page](./Images/6.png)
+&nbsp;
 ## Contributing
 
 Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request for review.
