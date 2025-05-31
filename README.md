@@ -119,6 +119,16 @@ smart-canteen/
 &nbsp;
 ![Home Page](./Images/6.png)
 &nbsp;
+![Home Page](./Images/7.png)
+&nbsp;
+![Home Page](./Images/8.png)
+&nbsp;
+![Home Page](./Images/9.png)
+&nbsp;
+![Home Page](./Images/10.png)
+&nbsp;
+![Home Page](./Images/11.png)
+&nbsp;
 ## Contributing
 
 Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request for review.
